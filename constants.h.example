@@ -1,0 +1,4 @@
+const char* USERNAME = "username to access hue bridge with";
+const char* WIFI_SSID = "********";
+const char* WIFI_PASS = "********";
+const char* SCENE_ID = "ID of scene to use (scenes can be found at /api/scenes)";
